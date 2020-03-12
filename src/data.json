@@ -1,0 +1,68 @@
+{
+    "profiles":[
+        {
+            "basics":{
+                "Name":"Bhargavi G","Email":"bhagi@gmail.com","Mobile":"+91 8121099745"  
+            },
+            "Education":[
+                {
+                    "Degree":"S.S.C","Percentage":"97%","Institute":"AGVN"
+                },
+                {
+                    "Degree":"Intermediate - (MPC)","Percentage":"97.6%","Institute":"NRI"
+                },
+                {
+                    "Degree":"B.Tech - (CSE)","Percentage":"89%","Institute":"VVIT"
+                }
+            ],
+            "Skills":[
+                {
+                    "Type":"Programming languages","values":["C","C++","Java","Python","C#"]
+                },
+                {
+                    "Type":"Web Technologies","values":["html","CSS","JavaScript"]
+                },
+                {
+                    "Type":"FrameWorks & Libraries","values":["ReactJs"]
+                },
+                {
+                    "Type":"Operating Systems","values":["windows","linux","mac"]
+                }
+
+            ]
+
+        },
+        {
+            "basics":{
+                "Name":"Keerthi J","Email":"jkmeghana@gmail.com","Mobile":"+91 7653839264"  
+            },
+            "Education":[
+                {
+                    "Degree":"S.S.C","Percentage":"97%","Institute":"Kennedy"
+                },
+                {
+                    "Degree":"Intermediate - (MPC)","Percentage":"92.8%","Institute":"Sri Chaitanya"
+                },
+                {
+                    "Degree":"B.Tech - (CSE)","Percentage":"87%","Institute":"VVIT"
+                }
+            ],
+            "Skills":[
+                {
+                    "Type":"Programming languages","values":["C","C++","Java","Python","Ruby"]
+                },
+                {
+                    "Type":"Web Technologies","values":["html","CSS","JavaScript"]
+                },
+                {
+                    "Type":"FrameWorks & Libraries","values":["ReactJs"]
+                },
+                {
+                    "Type":"Operating Systems","values":["windows","linux","ubuntu"]
+                }
+
+            ]
+
+        }
+    ]
+}
